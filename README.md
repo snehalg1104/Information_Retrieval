@@ -1,1 +1,1 @@
-# Information_Retrieval
+# Applied Information Retrieval
